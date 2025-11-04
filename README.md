@@ -27,7 +27,7 @@ Sigue estos pasos para ejecutar el proyecto localmente.
 
 ### 1. Prerrequisitos
 * Tener instalado Python 3.10+
-* Tener un servidor MySQL local o remoto (como el que usas con DataGrip).
+* Tener un servidor MySQL local o remoto (DBeaver, DataGrip, etc).
 
 ### Credenciales de prueba:
 
