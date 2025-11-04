@@ -9,7 +9,7 @@ El sistema "WorkHub" está diseñado para automatizar y simplificar la administr
 * **Lenguaje:** Python 3.12
 * **Base de Datos:** MySQL
 * **Interfaz Gráfica (GUI):** Tkinter (con el módulo `ttk` estándar)
-* **Manejo de Imágenes:** Pillow (PILLOW) [cite: 1-2]
+* **Manejo de Imágenes:** Pillow (PILLOW)
 * **Exportación:** `openpyxl` (Excel) y `reportlab` (PDF)
 * **Calendarios:** `tkcalendar`
 * **Gestión de BD:** `mysql-connector-python`
