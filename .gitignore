@@ -1,0 +1,15 @@
+# .gitignore
+
+# Ignorar el archivo de variables de entorno
+.env
+
+# Ignorar el entorno virtual de Python
+venv/
+.venv/
+
+# Ignorar cachés de Python
+__pycache__/
+*.pyc
+
+# Ignorar archivos del IDE (PyCharm)
+.idea/
